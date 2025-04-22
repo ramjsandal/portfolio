@@ -32,7 +32,7 @@ Languages/Tools used: C#, Unity, MetaXRSDK, Git
 
 Programmed a beatsaber-like game where you punch bags to the beat.
 
-### dARts | [github](https://github.com/ramjsandal/ARDarts) 
+### dARts | [github](https://github.com/ramjsandal/dARts) 
 
 ![alt text](arDarts.png)
 
