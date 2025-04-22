@@ -24,3 +24,19 @@ A program that mimicks the functionality of the linux shell written in C.
 Languages/Tools used: C, Makefile, Git
 
 Implementation of the FUSE interface in C.
+
+### Marble Solitaire | [github](https://github.com/ramjsandal/MarbleSolitaire/)
+
+![alt text](marbleSolitaire.png)
+
+Languages/Tools used: Java, Java Swing, JUnit, Git
+
+Created an implementation of the game Marble Solitaire. Allows for multiple types of boards and includes both a GUI and TUI version.
+
+### MacroMeal | [github](https://github.com/ramjsandal/MacroMeal)
+
+![alt text](macroMeal.png)
+
+Languages/Tools used: Java, Excel, JUnit, Git
+
+Tool that helps users find well reviewed meals from popular recipe websites that fit their macronutrient requirements. Written with Java and currently only supports a TUI. 
