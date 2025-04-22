@@ -15,3 +15,11 @@ Worked on a team of 10 people to deliver a plant inspired rhythm game. Personall
 Languages/Tools used: C#, Unity, Git
 
 Programmed and modeled a hidden key puzzle game in an IKEA showroom. Code was written in C# and modeling was done in ProBuilder.
+
+### Nursery Crime | [github](https://github.com/ramjsandal/NurseryCrime) | [itch](https://shebloong.itch.io/nursery-crime)
+
+![alt text](nurseryCrime.png)
+
+Languages/Tools used: C#, Unity, Git
+
+Programmed a FPS in Unity using C# where you rescue a baby thats been kidnapped. 
