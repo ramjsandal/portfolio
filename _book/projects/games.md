@@ -40,9 +40,50 @@ Languages/Tools used: C#, Unity, MetaXRSDK, Git
 
 AR Dart game made with C# in Unity.
 
-
 ### March | [github](https://github.com/ramjsandal/March) | [itch](https://shebloong.itch.io/march) 
 
 ![alt text](march.png)
 
+Languages/Tools used: C#, Unity, Git
+
 A 2D turn based tactics game where you control a party of a soldier, archer, horseman, and tank to defeat enemies.
+
+### Outbrake | [github](https://github.com/ramjsandal/Outbrake) | [itch](https://shebloong.itch.io/Outbrake) 
+
+![alt text](outbrake.png)
+
+Languages/Tools used: C#, Unity, Git
+
+A 2D zombie survival game where you hit zombies with your car. Contains an upgrade system, custom grid system and pathfinding, and unlockable areas. Did pathfinding with Dijkstra's.
+
+### Catnap | [github](https://github.com/yumio7/catnap) | [itch](https://shebloong.itch.io/catnap) 
+
+![alt text](catnap.png)
+
+Languages/Tools used: C#, Unity, Git
+
+A FPS where you play as a cat in their dreams while they fight dogs, mice, lawnmowers, hunters, and a bathtub! Includes an shop where you can purchase better weapons.
+
+### Crystal Carnage | [github](https://github.com/AustinSzema/Roll-for-Retribution) | [itch](https://austinszema.itch.io/demon-time) 
+
+![alt text](crystalCarnage.png)
+
+Languages/Tools used: C#, Unity, Git
+
+A physics based FPS where you fight against hordes of enemies. Mainly worked on the spawning system, enemy logic, shop, and various other small features and bugfixes.
+
+### You are the Designer | [github](https://github.com/AustinSzema/gmtk-game-jam-2023) | [itch](https://austinszema.itch.io/demon-time) 
+
+![alt text](youAreTheDesigner.png)
+
+Languages/Tools used: C#, Unity, Git
+
+Puzzle platformer where you construct the level around the player to make it so they can reach the end of the level. Created the level editing system, the level play system, and fixed an assortment of bugs.
+
+### Masked | [itch](https://consistently-nervous.itch.io/masked) 
+
+![alt text](masked.png)
+
+Languages/Tools used: C#, Unity, Git
+
+Visual Novel murder mystery detective game set at a venetian mask party. I worked on the mask system, its interaction with the dialogue system, and various bugfixes.

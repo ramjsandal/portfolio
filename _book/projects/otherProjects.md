@@ -40,3 +40,11 @@ Created an implementation of the game Marble Solitaire. Allows for multiple type
 Languages/Tools used: Java, Excel, JUnit, Git
 
 Tool that helps users find well reviewed meals from popular recipe websites that fit their macronutrient requirements. Written with Java and currently only supports a TUI. 
+
+### VR Presentation Training Application for People with Speech Impediments | [github](https://github.com/nsp5488/VR-Presentation-Training-for-Stuttering) | [demo](https://www.youtube.com/watch?v=XnOVqCA4Q3c&ab_channel=NicholasPatel)
+
+![alt text](vrStutterTraining.png)
+
+Languages/Tools used: C#, Unity, Git
+
+VR application created to assist users with speech impediments in practicing giving presentations. Used by the Speech-Languaged and hearing center with patients.
