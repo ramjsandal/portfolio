@@ -15,5 +15,12 @@ Written using Java and Java Swing, tested using JUnit
 
 Languages/Tools used: C, Makefile, Git
 
-A program that mimicks the functionality of the linux shell.
+A program that mimicks the functionality of the linux shell written in C.
 
+### FUSE Filesystem | [github](https://github.com/ramjsandal/FUSEFilesystem/)
+
+![alt text](fuse.png)
+
+Languages/Tools used: C, Makefile, Git
+
+Implementation of the FUSE interface in C.
