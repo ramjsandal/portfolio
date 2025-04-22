@@ -48,10 +48,18 @@ Languages/Tools used: C#, Unity, Git
 
 A 2D turn based tactics game where you control a party of a soldier, archer, horseman, and tank to defeat enemies.
 
-### Outbrake | [github](https://github.com/ramjsandal/Outbrake) | [itch](https://shebloong.itch.io/outbrake) 
+### Outbrake | [github](https://github.com/ramjsandal/Outbrake) | [itch](https://shebloong.itch.io/Outbrake) 
 
 ![alt text](outbrake.png)
 
 Languages/Tools used: C#, Unity, Git
 
 A 2D zombie survival game where you hit zombies with your car. Contains an upgrade system, custom grid system and pathfinding, and unlockable areas. Did pathfinding with Dijkstra's.
+
+### Catnap | [github](https://github.com/yumio7/catnap) | [itch](https://shebloong.itch.io/catnap) 
+
+![alt text](catnap.png)
+
+Languages/Tools used: C#, Unity, Git
+
+A FPS where you play as a cat in their dreams while they fight dogs, mice, lawnmowers, hunters, and a bathtub! Includes an shop where you can purchase better weapons.
