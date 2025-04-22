@@ -79,3 +79,11 @@ A physics based FPS where you fight against hordes of enemies. Mainly worked on 
 Languages/Tools used: C#, Unity, Git
 
 Puzzle platformer where you construct the level around the player to make it so they can reach the end of the level. Created the level editing system, the level play system, and fixed an assortment of bugs.
+
+### Masked | [itch](https://consistently-nervous.itch.io/masked) 
+
+![alt text](masked.png)
+
+Languages/Tools used: C#, Unity, Git
+
+Visual Novel murder mystery detective game set at a venetian mask party. I worked on the mask system, its interaction with the dialogue system, and various bugfixes.
