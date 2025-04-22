@@ -23,3 +23,11 @@ Programmed and modeled a hidden key puzzle game in an IKEA showroom. Code was wr
 Languages/Tools used: C#, Unity, Git
 
 Programmed a FPS in Unity using C# where you rescue a baby thats been kidnapped. 
+
+### Beatdown | [github](https://github.com/ramjsandal/Beatdown) 
+
+![alt text](beatdown.png)
+
+Languages/Tools used: C#, Unity, MetaXRSDK, Git
+
+Programmed a beatsaber-like game where you punch bags to the beat.
