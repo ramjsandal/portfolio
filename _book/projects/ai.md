@@ -15,3 +15,11 @@ Created a 2D cave generator based on [this paper by Johnson et al.](https://dl.a
 Languages/Tools used: C#, Raylib, Git
 
 Generated tree and fractal structures using Aristid Lindenmayer's concept of L-Systems. Wrote the code in C# and visualized using Raylib.
+
+### Level Generation with Space Partitions | [github](https://github.com/ramjsandal/SpacePartition) 
+
+![alt text](spacePartition.png)
+
+Languages/Tools used: C#, Raylib, XUnit, Git
+
+Generated 2D dungeon levels using a space partitioning method. Written with C#, visualized with Raylib, and tested with XUnit. Still a work in progress.
