@@ -18,8 +18,16 @@ Generated tree and fractal structures using Aristid Lindenmayer's concept of L-S
 
 ### Level Generation with Space Partitions | [github](https://github.com/ramjsandal/SpacePartition) 
 
-![alt text](spacePartition.png)
+![alt text](sp.png)
 
 Languages/Tools used: C#, Raylib, XUnit, Git
 
-Generated 2D dungeon levels using a space partitioning method. Written with C#, visualized with Raylib, and tested with XUnit. Still a work in progress.
+Generated 2D dungeon level layouts using a space partitioning method. Written with C#, visualized with Raylib, and tested with XUnit. 
+
+### Procedurally Generated Terrain using Perlin Noise
+
+![alt text](perlinNoiseTerrain.png)
+
+Languages/Tools used: C++, OpenGL, GLSL, Git
+
+Generated 3D terrain using Perlin Noise. Wrote the code with C++ and OpenGL and the shaders with GLSL.
