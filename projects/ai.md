@@ -18,7 +18,7 @@ Generated tree and fractal structures using Aristid Lindenmayer's concept of L-S
 
 ### Level Generation with Space Partitions | [github](https://github.com/ramjsandal/SpacePartition) 
 
-![alt text](spacePartition.png)
+![alt text](sp.png)
 
 Languages/Tools used: C#, Raylib, XUnit, Git
 
