@@ -22,4 +22,4 @@ Generated tree and fractal structures using Aristid Lindenmayer's concept of L-S
 
 Languages/Tools used: C#, Raylib, XUnit, Git
 
-Generated 2D dungeon levels using a space partitioning method. Written with C#, visualized with Raylib, and tested with XUnit. Still a work in progress.
+Generated 2D dungeon level layouts using a space partitioning method. Written with C#, visualized with Raylib, and tested with XUnit. 
